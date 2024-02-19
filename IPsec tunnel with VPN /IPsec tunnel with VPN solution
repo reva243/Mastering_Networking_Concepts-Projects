@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/reva243/Mastering_Networking_Concepts-Projects/Ipsec_tunnel_with_vpn/assets/141171970/16f88372-705e-4d42-b5ad-c5d3af9da381)
+
 Solution:
 1. Established IPsec VPN and ISAKMP policies between two routers using Pre-shared Key authentication and AES 256 encryption.
 2. Implemented an access list to restrict traffic, permitting connections only between System-A and System-C across the networks.
